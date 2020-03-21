@@ -1,4 +1,4 @@
 FROM node:latest
 
-ENV APP_ROOT /portfolio
+ENV APP_ROOT /todolist
 WORKDIR $APP_ROOT
